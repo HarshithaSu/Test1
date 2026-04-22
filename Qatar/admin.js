@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 const captchas = { login:'', signup:'', forgot:'' };
 function generateCaptcha(type) {
     const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZabcdefghjkmnpqrstuvwxyz23456789';
